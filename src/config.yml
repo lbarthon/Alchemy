@@ -1,0 +1,9 @@
+# Alchemy plugin by Loul
+
+ConsoleCantSend: "&cErreur, commande inutilisable pour la console !"
+PlayerNotOP: "&cVous n'êtes pas OP!"
+PlayerUsage: "&cVeuillez faire uniquement /alchemy!"
+OPUsage: "&cVeuillez faire /alchemy edit <1-5> ou uniquement /alchemy!"
+UsedSuccessfully: "&aAlchimie utilisée avec succès! Item dans votre inventaire ou à vos pieds!"
+NoItem: "&cVeuillez mettre la pierre dans votre main!"
+LastLineSuccessfully: "&c%p a fini la ligne 5 d'alchimie!"

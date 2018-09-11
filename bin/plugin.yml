@@ -1,0 +1,9 @@
+main: fr.loul.alchemy.Alchemy
+version: 1.0.0
+name: Alchemy
+author: [Loul]
+
+commands:
+  alchemy:
+    default: true
+    usage: Haha
